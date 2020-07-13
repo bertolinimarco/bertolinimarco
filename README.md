@@ -4,4 +4,4 @@ I'm a passionate front end developer with 10+ years of work experience around th
 
 I mostly use HTML, CSS (SCSS), JavaScript (Vanilla/Frameworks/Tooling), Angular, Vue.js, JAMstack, WordPress, Adobe Suite, Git.
 
-I love proactivity, problem solving, DX, OSS, Full-stack attitude. 
+Other than my wife and our two cats, I love proactivity, problem solving, DX, OSS & gaming.
