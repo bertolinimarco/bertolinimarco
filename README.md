@@ -4,4 +4,4 @@ I'm a unique blend of front end developer with 10+ years of work experience. I l
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bertolinimarco&layout=compact&langs_count=6&bg_color=1a1a1a&title_color=ebbd5b&icon_color=ebbd5b&text_color=d3d0c8)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bertolinimarco&hide_progress=true)]
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=devberto&hide_progress=true)]
