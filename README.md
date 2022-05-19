@@ -11,7 +11,7 @@ I'm a unique blend of front end developer with 10+ years of work experience, who
 - I like (and want) to be very organized.
 - I'm an INTJ. Although the Meyers-Briggs indicator was considered ["not really reliable."](https://www.bbc.com/news/blogs-echochambers-28315137)
 - I can play (and have played with several bands throughout northern Italy) guitar, bass and drums, self-taught.
-- Since 1999 my passion for the geeky/nerdy world has never left me: over the years I have transmitted to many people this passion and in 2014 I co-founded in Valle Camonica (Italy, BS) the first ludic and cultural association dedicated to the popularization of smart games called "Camunia Ludica.".
+- Since 1999 my passion for the geeky/nerdy world has never left me: over the years I have transmitted to many people this passion and in 2014 I co-founded with some friends in Valle Camonica (Italy, BS) the first gaming and cultural association dedicated to the popularization of smart games called "Camunia Ludica.".
 - I spend my free time between technology, literature, art, hiking and traveling.
 
 Wanna chat? info@marcobertolini.net or, you can find me on Discord `Marco B.#3791`
