@@ -3,8 +3,8 @@
 I'm a unique blend of front end developer with 10+ years of work experience, who loves turn design and ideas into clear, scalable and maintenable products. 
 
 👨🏻‍💻 Tech
-- Unique tech background: taking my first steps into the world of technology on a 286-PC with MS-DOS and floppy disks. With the advent of the Internet, I was inspecting web page code for the first time on MySpace from a 56k line connected to IRC and MSN. With NotePad.
-- I've always preferred Netscape Navigator to Internet Explorer.
+- Taking my first steps into the world of technology on a 286-PC with MS-DOS and floppy disks. With the advent of the Internet, I was inspecting web page code for the first time on MySpace from a 56k line connected to IRC and MSN. With NotePad.
+- I've always preferred Netscape Navigator to Internet Explorer, I'm not sure why.
 - Before CSS frameworks were widely used, I had developed my own set of tools that I used as "best practice" blueprints for web projects. Even today I use a similar tool.
 
 🧙🏻‍♂️ Personality
