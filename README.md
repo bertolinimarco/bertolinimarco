@@ -2,7 +2,9 @@
 
 <details>
     <summary>🇬🇧 EN</summary>
-  I'm a unique blend of front end developer with 10+ years of work experience, who loves turn design and ideas into clear, scalable and maintenable products.
+
+I'm a unique blend of front end developer with 10+ years of work experience, who loves turn design and ideas into clear, scalable and maintenable products.
+
 
 👨🏻‍💻 Tech
 
@@ -24,7 +26,9 @@ Wanna chat? info@marcobertolini.net or, you can find me on Discord `Marco B.#379
 
 <details>
     <summary>🇮🇹 IT</summary>
-   Sono uno sviluppatore front-end con un background unico, con oltre 10 anni di esperienza lavorativa, che ama trasformare il design e le idee in prodotti chiari, scalabili e mantenibili.
+
+Sono uno sviluppatore front-end con un background unico, con oltre 10 anni di esperienza lavorativa, che ama trasformare il design e le idee in prodotti chiari, scalabili e mantenibili.
+
 
 👨🏻💻 Tech
 
