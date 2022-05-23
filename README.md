@@ -46,6 +46,4 @@ Sono uno sviluppatore front-end con un background unico, con oltre 10 anni di es
 
 Vuoi chattare? info@marcobertolini.net oppure, puoi trovarmi su Discord Marco B.#3791
 
-Tradotto con www.DeepL.com/Translator (versione gratuita)
-
 </details>
