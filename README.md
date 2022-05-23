@@ -27,7 +27,7 @@ Wanna chat? info@marcobertolini.net or, you can find me on Discord `Marco B.#379
 <details>
     <summary>🇮🇹 IT</summary>
 
-Sono uno sviluppatore front-end con un background unico, con oltre 10 anni di esperienza lavorativa, che ama trasformare il design e le idee in prodotti chiari, scalabili e mantenibili.
+Sono uno sviluppatore front-end con un background unico e oltre 10 anni di esperienza lavorativa, che ama trasformare design e le idee in prodotti dal codice pulito, scalabile e mantenibile.
 
 
 👨🏻💻 Tech
@@ -44,6 +44,6 @@ Sono uno sviluppatore front-end con un background unico, con oltre 10 anni di es
 - Dal 1999 la passione per il mondo geek/nerdy non mi ha mai abbandonato: negli anni ho trasmesso a molte persone questa passione e nel 2014 ho co-fondato con alcuni amici la prima associazione ludica e culturale dedicata alla divulgazione dei giochi intelligenti chiamata "Camunia Ludica", vicino a dove abito.
 - Vivo in montagna con mia moglie e due gatti, trascorrendo il tempo tra tecnologia, letteratura, arte, gaming, escursioni e viaggi.
 
-Vuoi chattare? info@marcobertolini.net oppure, puoi trovarmi su Discord Marco B.#3791
+Vuoi scambiare due parole? info@marcobertolini.net oppure, puoi trovarmi su Discord Marco B.#3791
 
 </details>
