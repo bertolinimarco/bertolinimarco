@@ -18,9 +18,9 @@ I'm a unique blend of front end developer with 10+ years of work experience, who
 - I'm an INTJ. Although the Meyers-Briggs indicator seems to be considered ["not really reliable."](https://www.bbc.com/news/blogs-echochambers-28315137)
 - I can play (and have played with several bands throughout northern Italy) guitar, bass and drums, self-taught. Currenlty I'm on the irish bouzouki.
 - Since 1999 my passion for the geeky/nerdy world has never left me: over the years I have transmitted to many people this passion and in 2014 I co-founded with some friends in Valle Camonica (Italy, BS) the first gaming and cultural association dedicated to the popularization of smart games called "Camunia Ludica".
-- I live on a mountain with my wife and 2 cats, spending my time between technology, literature, art, gaming, hiking and traveling.
+- I live on a mountain with my wife and three cats, spending my time between technology, literature, art, gaming, hiking and traveling.
 
-Wanna chat? info@marcobertolini.net or, you can find me on Discord `Marco B.#3791`
+Wanna chat? info@marcobertolini.net or, you can find me on Discord, I'm "devberto".
 
 </details>
 
@@ -42,8 +42,8 @@ Sono uno sviluppatore front-end con un background unico e oltre 10 anni di esper
 - Sono un INTJ, a quanto pare. Anche se l'indicatore Meyers-Briggs sembra essere considerato "non proprio affidabile".
 - So suonare (e ho suonato con diverse band in tutto il nord Italia) chitarra, basso e batteria, da autodidatta. Attualmente strimpello il bouzouki irlandese.
 - Dal 1999 la passione per il mondo geek/nerdy non mi ha mai abbandonato: negli anni ho trasmesso a molte persone questa passione e nel 2014 ho co-fondato con alcuni amici la prima associazione ludica e culturale dedicata alla divulgazione dei giochi intelligenti chiamata "Camunia Ludica", vicino a dove abito.
-- Vivo in montagna con mia moglie e due gatti, trascorrendo il tempo tra tecnologia, letteratura, arte, gaming, escursioni e viaggi.
+- Vivo in montagna con mia moglie e tre gatti, trascorrendo il tempo tra tecnologia, letteratura, arte, gaming, escursioni e viaggi.
 
-Vuoi scambiare due parole? info@marcobertolini.net oppure, puoi trovarmi su Discord Marco B.#3791
+Vuoi scambiare due parole? info@marcobertolini.net oppure, puoi trovarmi su Discord, sono "devberto".
 
 </details>
